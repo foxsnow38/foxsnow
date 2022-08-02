@@ -51,8 +51,7 @@
   
   <summary>Click to Show Stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=foxsnow38&show_icons=true&theme=dracula&hide_border=true&border_radius=25&custom_title=Yağız's Stats&include_all_commits=true" />
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=foxsnow38&theme=dracula&hide_border=true&border_radius=25" alt="foxsnow38" /></p>
+<a><img src="https://metrics.lecoq.io/foxsnow38?languages=1&gists=1&followup=1"/></a>
 
   
 </details>
