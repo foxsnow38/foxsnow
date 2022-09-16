@@ -48,7 +48,9 @@
             <a href="https://reactnative.dev/" target="_blank"> <img
             src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
             alt="reactnative" width="55" height="55" /> </a>
-            
+            <a href="[https://reactnative.dev/](https://firebase.google.com/)" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase" width="40" height="40" /> </a>
           
 </p>
   
