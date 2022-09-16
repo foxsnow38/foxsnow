@@ -37,12 +37,19 @@
             <a href="https://axios-http.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/cb9555f8330e3037435945c6d77f0454646c364a/public/logos/axios.dark.svg"
             alt="react" width="40" height="40" /> </a> 
-             <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-            <h4>Learning:</h4>
-            <br/><a href="https://www.figma.com/" target="_blank"> <img
+             <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
             </a>
-           <a href="https://www.electronjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
+            <h4>Learning:</h4>
+            <br/>
+            <a href="https://react-redux.js.org/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="firebase" width="40" height="40" /> </a>
+            </a>
+            <a href="https://reactnative.dev/" target="_blank"> <img
+            src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
+            alt="reactnative" width="55" height="55" /> </a>
+            
+          
 </p>
   
 <br/>
