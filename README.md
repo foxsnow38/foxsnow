@@ -39,7 +39,9 @@
             alt="react" width="40" height="40" /> </a> 
              <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-            </a>
+            </a><a href="https://socket.io" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg"
+            alt="socketio" width="40" height="40" /> </a>
             <h4>Learning:</h4>
             <br/>
             <a href="https://react-redux.js.org/" target="_blank"> <img
@@ -51,6 +53,10 @@
             <a href="[https://reactnative.dev/](https://firebase.google.com/)" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a>
+        
+            
+            
+           
           
 </p>
   
