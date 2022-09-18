@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Frontend Devoloper</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=foxsnow38&label=Profile%20views&color=80ceff&style=flat-square" alt="d3r1n" /> 
+  <img src="https://komarev.com/ghpvc/?username=foxsnow38&label=Profile%20views&color=80ceff&style=flat-square" alt="foxsnowProfileViewCounter" /> 
   <a href="https://wakatime.com/@80c1265b-b9f3-4878-8403-3f1ba54e1fd1"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2020" /></a>
 </p>
 <div align="center">
@@ -41,7 +41,9 @@
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
             </a><a href="https://socket.io" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg"
-            alt="socketio" width="40" height="40" /> </a>
+            alt="socketio" width="40" height="40" /></a><a href="https://eslint.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
+            alt="eslint" width="40" height="40" /> </a>
             <h4>Learning:</h4>
             <br/>
             <a href="https://react-redux.js.org/" target="_blank"> <img
@@ -53,7 +55,10 @@
             <a href="[https://reactnative.dev/](https://firebase.google.com/)" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a>
+       
         
+        
+       
             
             
            
