@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağız but you can call me Fox</h1>
 <h3 align="center">Jr. Frontend Devoloper</h3>
+<h1 align="center"><a href="https://github.com/myagizmaktav">MY NEW ACCOUNT</a></h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=foxsnow38&label=Profile%20views&color=80ceff&style=flat-square" alt="foxsnowProfileViewCounter" /> 
